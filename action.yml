@@ -1,4 +1,4 @@
-name: 'word cound'
+name: 'word count'
 description: 'Read file and count the word'
 inputs:
   who-to-greet:  # id of input
